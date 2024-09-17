@@ -1,0 +1,7 @@
+#GIT IGNORE CARPETAS T ARCHIVOS
+
+#ignora el archivo .env
+.env 
+
+#ignorar carpetas
+#node_modules/
