@@ -1,2 +1,4 @@
 archivo de prueba del tutorial de git
-del canal Hola Mundo
+del canal Hola Mundo.
+
+Creado el 17 de septiembre de 2024

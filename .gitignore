@@ -1,4 +1,5 @@
 #GIT IGNORE CARPETAS T ARCHIVOS
+#------------------------------
 
 #ignora el archivo .env
 .env 
