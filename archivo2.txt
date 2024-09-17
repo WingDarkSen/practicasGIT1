@@ -1,6 +1,0 @@
-archivo de prueba 2 del tutorial de git
-del canal Hola Mundo.
-17-09-2024. 
-
-------------------------------------------
-
