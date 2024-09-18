@@ -41,3 +41,7 @@ En git es un proceso que se conoce como la creación de una
 ram adicional a la principal, para hacer cambios o codificar
 sin afectar la rama principal
 
+git checkout master -> cambia a la rama principal
+
+mover los cambios desde la ramab a la master
+
