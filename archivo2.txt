@@ -1,0 +1,43 @@
+Segundo archivo de práctica
+----------------------------
+
+    * En este archivo se irán agregando los comandos más utilizados
+en el tutorial de Git del Canal Hola Mundo.
+
+Probando los comandos de git
+
+1) configuración de reposotorio
+#ntre comillas el nombre de usuario
+git config --global user.name "WDKS"
+
+#El correo del usuario responsable
+git config --global user.mail wingdarksen@gmail.com
+
+#Editor de código en el que se trabaará. Code wait a la espera
+git config --global core.editor "code --wait"
+
+#Inicar el editor y espera a que se cierre
+git config --global -e
+
+git diff
+git diff nos muestra los cambios que se podrían agregar.
+Las líneas que se cambiaron o eliminaron
+
+git diff --staged
+Se pueden ver los cambios que se encuentran en nuestra eapa staged
+
+git log
+git log permite ver el historial de todo el reposotorio
+nombre de la persona que realizo el camnio
+correo electrónico
+mensaje de commit 
+
+git log --oneline 
+muestra el historial con un núemro identificador de cala cambio 
+en el historial
+
+Branch
+En git es un proceso que se conoce como la creación de una
+ram adicional a la principal, para hacer cambios o codificar
+sin afectar la rama principal
+
